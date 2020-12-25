@@ -26,9 +26,9 @@ cd $HOME/autoig
 rm celeb_id 2> /dev/null
 rm execp 2> /dev/null
 rm autoig 2> /dev/null
-wget -S https://raw.github.com/noob-hackers/autoig/main/celeb_id 2> /dev/null
-wget -S https://raw.github.com/noob-hackers/autoig/main/execp 2> /dev/null
-wget -S https://raw.github.com/noob-hackers/autoig/main/autoig 2> /dev/null
+wget -S https://raw.github.com/apkmilad/auto/main/celeb_id 2> /dev/null
+wget -S https://raw.github.com/apkmilad/auto/main/execp 2> /dev/null
+wget -S https://raw.github.com/apkmilad/auto/main/autoig 2> /dev/null
 clear
 else
 clear
@@ -39,9 +39,9 @@ cd $HOME/autoig/
 rm celeb_id 2> /dev/null
 rm execp 2> /dev/null
 rm autoig 2> /dev/null
-wget -S https://raw.github.com/noob-hackers/autoig/main/celeb_id 2> /dev/null
-wget -S https://raw.github.com/noob-hackers/autoig/main/execp 2> /dev/null
-wget -S https://raw.github.com/noob-hackers/autoig/main/autoig 2> /dev/null
+wget -S https://raw.github.com/apkmilad/auto/main/celeb_id 2> /dev/null
+wget -S https://raw.github.com/apkmilad/auto/main/execp 2> /dev/null
+wget -S https://raw.github.com/apkmilad/auto/main/autoig 2> /dev/null
 clear
 fi
 
